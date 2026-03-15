@@ -1,9 +1,0 @@
-An antibody (also known as an immunoglobulin) is a Y-shaped protective protein produced by the immune system to identify and neutralize foreign invaders like bacteria, viruses, and toxins. These proteins, created by white blood cells (plasma cells), specifically bind to foreign substances called antigens to mark them for destruction or neutralize them directly.
-
-Key details about antibodies include:
-Structure: They are 
-Y-shaped, consisting of four polypeptide chains—two heavy and two light—forming a "bivalent" structure that can bind to two identical antigens.
-Function: Antibodies operate by neutralising pathogens, opsonization (tagging pathogens for destruction), and triggering the complement system to kill bacteria.
-Types: The five main classes of antibodies (isotypes) are IgG, IgM, IgA, IgD, and IgE, with IgG being the most common, per Encyclopedia Britannica.
-Location: They circulate in the blood, mucosal secretions, and are present in fluids like saliva, tears, and breast milk.
-Immunity: After exposure, antibodies remain in the blood to protect against future infections. 
