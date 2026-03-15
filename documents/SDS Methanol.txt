@@ -1,0 +1,93 @@
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1 Product identifiers
+Product name : Methanol
+Product Number : M3641
+Brand : Sigma
+Index-No. : 603-001-00-X
+REACH No. : 01-2119433307-44-XXXX
+CAS-No. : 67-56-1
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+Identified uses : Laboratory chemicals, Manufacture of substances
+1.3 Details of the supplier of the safety data sheet
+Company : Merck Life Science OY
+Keilaranta 6,
+FI-02150 ESPOO
+Telephone : +358 9 350 9250
+Fax : +358 9 350 9255
+E-mail address : TechnicalService@merckgroup.com
+1.4 Emergency telephone number
+Emergency Phone # : +(358)-942419014 (CHEMTREC)
+112 (Hätäkeskuslaitos)
+SECTION 2: Hazards identification
+2.1 Classification of the substance or mixture
+Flammable liquids, (Category 2) H225: Highly flammable liquid and vapour.
+Acute toxicity, (Category 3) H301: Toxic if swallowed.
+Acute toxicity, (Category 3) H331: Toxic if inhaled.
+Acute toxicity, (Category 3) H311: Toxic in contact with skin.
+Specific target organ toxicity - single exposure, (Category 1), Eyes, Central nervous system H370: Causes damage to organs.
+
+Label elements
+Labelling according Regulation (EC) No 1272/2008
+Pictogram
+Signal Word Danger
+Hazard Statements
+H225 Highly flammable liquid and vapour.
+H301 + H311 + H331 Toxic if swallowed, in contact with skin or if inhaled.
+H370 Causes damage to organs (Eyes, Central nervous system).
+Precautionary Statements
+P210 Keep away from heat, hot surfaces, sparks, open flames and
+other ignition sources. No smoking.
+P233 Keep container tightly closed.
+P280 Wear protective gloves/ protective clothing/ eye protection/ face
+protection.
+P301 + P310 IF SWALLOWED: Immediately call a POISON CENTER/ doctor.
+P303 + P361 + P353 IF ON SKIN (or hair): Take off immediately all contaminated
+clothing. Rinse skin with water.
+P304 + P340 + P311 IF INHALED: Remove person to fresh air and keep comfortable
+for breathing. Call a POISON CENTER/ doctor.
+Supplemental Hazard
+Statements
+none
+
+Other hazards
+This substance/mixture contains no components considered to be either persistent,
+bioaccumulative and toxic (PBT), or very persistent and very bioaccumulative (vPvB) at
+levels of 0.1% or higher.
+Ecological information:
+The substance/mixture does not contain components considered to have endocrine
+disrupting properties according to REACH Article 57(f) or Commission Delegated regulation
+(EU) 2017/2100 or Commission Regulation (EU) 2018/605 at levels of 0.1% or higher.
+Toxicological information:
+The substance/mixture does not contain components considered to have endocrine
+disrupting properties according to REACH Article 57(f) or Commission Delegated regulation
+(EU) 2017/2100 or Commission Regulation (EU) 2018/605 at levels of 0.1% or higher.
+
+Exposure controls
+Personal protective equipment
+Skin protection
+Handle with gloves. Gloves must be inspected prior to use. Use proper glove
+removal technique (without touching glove's outer surface) to avoid skin contact
+with this product. Dispose of contaminated gloves after use in accordance with
+applicable laws and good laboratory practices. Wash and dry hands.
+The selected protective gloves have to satisfy the specifications of Regulation (EU)
+2016/425 and the standard EN 374 derived from it.
+Full contact
+Material: butyl-rubber
+Minimum layer thickness: 0,7 mm
+Break through time: 480 min
+Material tested:KCL 898 Butoject®
+Splash contact
+Material: Viton®
+Minimum layer thickness: 0,7 mm
+Break through time: 120 min
+Material tested:KCL 890 Vitoject®
+data source: KCL GmbH, D-36124 Eichenzell, phone +49 (0)6659 87300, e-mail
+sales@kcl.de, test method: EN374
+If used in solution, or mixed with other substances, and under conditions which
+differ from EN 374, contact the supplier of the CE approved gloves. This
+recommendation is advisory only and must be evaluated by an industrial hygienist
+and safety officer familiar with the specific situation of anticipated use by our
+customers. It should not be construed as offering an approval for any specific use
+scenario.
+Control of environmental exposure
+Prevent product from entering drains
