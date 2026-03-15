@@ -1,0 +1,19 @@
+Product Datasheet
+Lysergic acid diethylamide (LSD) Antibody
+HM1045
+Product Name: Lysergic acid diethylamide (LSD) Antibody
+Catalog Number: HM1045
+Description: Purified Monoclonal Antibody
+Species/Host: Mouse
+Tested Applications: LF, ELISA
+Immunogen: LSD-BSA
+Brand: EastCoast Bio
+Form/Appearance: Purified Monoclonal Antibody
+Storage: Short Term: +2–8 °C. Long Term: -20 °C. Avoid repeated freezing
+and thawing.
+Isotype: IgG1
+Clonality: Monoclonal
+Purity: > 95 % by SDS-PAGE
+Buffer: 0.015M Potassium phosphate, pH 7.2 with 0.85% NaCl
+Specificity: LSD
+Preservatives: 0.05% Sodium Azide
